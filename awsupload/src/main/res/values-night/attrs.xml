@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AwsView">
+        <attr name="awsKey" format="string"/>
+        <attr name="awsSecret" format="string"/>
+        <attr name="bucketname" format="string"/>
+        <attr name="maxsizeMb" format="integer"/>
+        <attr name="uploadtype" format="string"/>
+        <attr name="fileuri" format="string"/>
+    </declare-styleable>
+</resources>
